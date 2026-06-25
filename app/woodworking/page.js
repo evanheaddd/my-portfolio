@@ -16,7 +16,6 @@ export default function Photography() {
       </nav>
       
       <section className="p-12 max-w-4xl mx-auto">
-        <h2 className="text-2xl font-bold mb-8">Woodworking</h2>
         <div className="grid grid-cols-3 gap-6">
           <div className="bg-gray-200 h-64 rounded flex items-center justify-center">
             <p className="text-gray-600">Image 1</p>
